@@ -8,6 +8,7 @@ package-lock.json
 
 dotenv/prod.env
 dotenv/.env
+dotenv/dev.env
 prisma/.env
 .env
 src/generated
